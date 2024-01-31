@@ -10,6 +10,8 @@
 
 https://blog.csdn.net/haduwi/article/details/105346939,
 
+npm i -g cnpm@7.1.0 --registry=https://registry.npmmirror.com
+
 ##### 1.1 显示乱码问题
 使用windows cmd窗口执行程序，如果你的cmd没有支持UTF-8编码，输出的log和提示都是乱码，建议使用PowerShell执行程序，或者打开cmd文件后，先运行 
 
